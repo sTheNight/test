@@ -1,0 +1,62 @@
+{
+    "noticeTitle": "公告",
+    "noticeContent": "无",
+    "languagePack": [
+        {
+            "languageName": "简体中文（CaO氧化钙v1.1beta）",
+            "author": "CaO氧化钙",
+            "icons": "http://p.qlogo.cn/gh/201883398/201883398/0",
+            "downloadLink": "https://thenight.lanzouj.com/iwcGgxr5ctg",
+            "linkType": "lanzouPan",
+            "fileType":"txt",
+            "describe": "只支持SFS1.5.3"
+        },
+        {
+            "languageName": "简体中文（CaO氧化钙v1.0release1）",
+            "author": "CaO氧化钙",
+            "icons": "http://p.qlogo.cn/gh/201883398/201883398/0",
+            "downloadLink": "https://thenight.lanzouj.com/iah0Mxr5csf",
+            "linkType": "lanzouPan",
+            "fileType":"txt",
+            "describe": "支持1.5.2.x版本，是目前翻译最好的版本"
+        },
+        {
+            "languageName": "[B.R.S.A]未来纪元",
+            "author": "Luan.",
+            "icons": "http://p.qlogo.cn/gh/951247362/951247362/0",
+            "downloadLink": "null",
+            "linkType": "lanzouPan",
+            "fileType":"txt",
+            "describe": "暂不提供下载"
+        },
+        {
+            "languageName": "[有BUG]SFS1.5.3破解版",
+            "author": "百分网",
+            "icons": "https://image.byfen.com/app_logo/202149/1924ae92ca4d2bbd53b6e982ee1785e6.png_144-.png",
+            "downloadLink": "https://thenight.lanzouj.com/igqQZyfyung",
+            "linkType": "lanzouPan",
+            "fileType":"apk",
+            "describe": "破解版，但有地图无法缩放的Bug，下载完成后请自行到SFSTools/Download文件夹手动安装"
+        },
+        /*
+        {
+            "languageName": "1.1版预告",
+            "author": "CaO氧化钙",
+            "icons": "https://gitee.com/thenight112/test/raw/master/E2BA5C8D13834B2478254E91934F9BC8.jpg",
+            "downloadLink": "null",
+            "linkType": "lanzouPan",
+            "fileType":"",
+            "describe": "目前1.1版正在佛系开发中，就目前的进度已经开发速度来看，完成时间可能需要很久，新版发布后SFSTools将转为一个资源分享平台，并可以给用户自定义“源”（画大饼），但不要过于期待（我估计看到这条的人少之又少）\n1.1版仅由“CaO氧化钙”一人开发（完全重构）"
+        },
+        {
+            "languageName": "内部图片调用测试",
+            "author": "Developer",
+            "icons": "head1.png",
+            "downloadLink": "null",
+            "linkType": "lanzouPan",
+            "fileType":"png",
+            "describe": "Only a test."
+        }
+        */
+    ]
+}
